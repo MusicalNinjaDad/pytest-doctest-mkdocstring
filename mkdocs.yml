@@ -1,4 +1,4 @@
-site_name: "MusicalNinja libraries"
+site_name: "pytest-doctest-mkdocstrings"
 repo_url: https://github.com/MusicalNinjaDad/pytest-doctest-mkdocstrings
 repo_name: MusicalNinjaDad/pytest-doctest-mkdocstrings
 
@@ -60,9 +60,6 @@ markdown_extensions:
       format: !!python/name:pymdownx.superfences.fence_code_format
 
 nav:
-- recurtools:
-  - https://musicalninjadad.github.io/recurtools
-- pytest-doctest-mkdocstrings:
   - index.md
   - usage.md
   - API_Reference.md
